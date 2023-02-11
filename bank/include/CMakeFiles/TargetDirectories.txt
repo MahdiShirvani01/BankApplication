@@ -1,0 +1,3 @@
+/home/mahdi/Desktop/bk/include/CMakeFiles/rebuild_cache.dir
+/home/mahdi/Desktop/bk/include/CMakeFiles/edit_cache.dir
+/home/mahdi/Desktop/bk/include/CMakeFiles/app.dir
